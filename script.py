@@ -14,8 +14,8 @@ logo = f"""
 \033[0m================================================
  \033[1;35m        Developer : Saifur Rahman Siam
          YouTube   : Noob Programmer
-         GitHub    : github.com/nbprg
-         Telegram  : @TataCuto
+         GitHub    : github.com/bitabro3162
+         Telegram  : @alpha3162
 \033[0m================================================"""
 proxy_list = open('proxy.txt','r').read().splitlines()
 # get Captcha token 
